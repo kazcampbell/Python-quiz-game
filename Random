@@ -1,0 +1,5 @@
+#Randomizes question order for the quiz
+import random
+run_test = questions
+random.shuffle(questions)
+
